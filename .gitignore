@@ -1,0 +1,7 @@
+*__pycache__*
+nvc_mmodels
+.DS_Store
+rvc_models/hubert_base.pt
+rvc_models/rmvpe.pt
+[folder_name]/rvc_models/Gura
+[folder_name]/rvc_models/Kanye
